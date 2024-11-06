@@ -1,7 +1,7 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-    base: "/game-portfolio/",
+    base: "./",
     build: {
         minify: "terser",
     },
